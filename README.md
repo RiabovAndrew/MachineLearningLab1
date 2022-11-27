@@ -95,4 +95,5 @@ with open("food.txt", "r", encoding="utf8") as file:
 ```
 
 Directory should looks like:
+
 ![image](https://user-images.githubusercontent.com/43186510/204152031-735618f6-e1c4-4bfc-846c-6944480d3d03.png)
