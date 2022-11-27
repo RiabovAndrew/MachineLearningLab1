@@ -29,9 +29,9 @@ with open("food.txt", "r", encoding="utf8") as file:
     wordCloud.to_file("new.png")
 
     # In case if you want to show image immidiately
-    # plt.imshow(wordCloud, interpolation='bilinear')
-    # plt.axis("off")
-    # plt.show()
+    plt.imshow(wordCloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.show()
     
 
     
